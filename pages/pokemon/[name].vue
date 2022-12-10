@@ -24,7 +24,7 @@
 
     <hr class="my-8"/>
 
-    <NuxtLink to="/">
+    <NuxtLink class="button" to="/">
       Back
     </NuxtLink>
     
